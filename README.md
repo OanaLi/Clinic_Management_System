@@ -12,6 +12,7 @@ Run InterfataBD/src/Main.Clinica and the app will open<br>
 Login as admin: <br>
    - Admin: Username = PopescuIon, Parola = 12345<br>
    - Super Admin: Username = IordacheViorel, Parola = 12345<br>
+   
 Login as utilizator: <br>
   - Inspector: Username = IordacheViorel, Parola = 12345<br>
   - Expert Financiar: Username = VinatoruDaiana, Parola = 12345<br>
