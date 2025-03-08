@@ -8,6 +8,7 @@ Next, add the src files in a new Java project. Java needs to be of version X or 
 In the InterfataBD/src/Main.SqlConnection, update the username and password with coresponding values then run.<br>
 Run InterfataBD/src/Main.Clinica and the app will open<br>
 
+
 *TEST THE APP USING THE FOLLOWING CREDENTIALS*<br>
 Login as admin: <br>
    - Admin: Username = PopescuIon, Parola = 12345<br>
