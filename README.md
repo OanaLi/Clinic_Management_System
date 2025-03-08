@@ -6,7 +6,7 @@ Clinic management in Java with a strong MySQL database.
 To run the application you will first need to run the Clinic_Database_File.sql to create the database.<br>
 Next, add the src files in a new Java project. Java needs to be of version X or higher.<br>
 In the InterfataBD/src/Main.SqlConnection, update the username and password with coresponding values then run.<br>
-Run InterfataBD/src/Main.Clinica and the app will open<br><br>
+Run InterfataBD/src/Main.Clinica and the app will open.<br><br>
 
 
 *TEST THE APP USING THE FOLLOWING CREDENTIALS*<br>
